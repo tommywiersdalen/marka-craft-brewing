@@ -30,4 +30,10 @@ export default {};
   font-size: 40px;
   margin-top: -10px;
 }
+@media (max-width: 500px) {
+  .some{
+    font-size: 30px;
+  }
+
+}
 </style>
