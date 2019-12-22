@@ -61,6 +61,11 @@ body {
   flex-wrap: wrap;
   align-items: center;
 }
+@media(max-width: 500px) {
+  .footer{
+    height: 15vh;
+  }
+}
 .content {
   min-height: calc(100vh - 70px);
 }
