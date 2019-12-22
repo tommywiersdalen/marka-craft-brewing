@@ -36,7 +36,6 @@
               <nuxt-link to="Bryggeriet">Bryggeriet</nuxt-link>
             </b-nav-item>
               <b-nav-item ><nuxt-link to="Blogg">Blogg</nuxt-link></b-nav-item>
-              <b-nav-item ><nuxt-link to="blog/_blog">Blog</nuxt-link></b-nav-item>
           </b-navbar-nav>
 
         </b-collapse>
